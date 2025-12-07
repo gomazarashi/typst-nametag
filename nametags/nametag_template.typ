@@ -47,6 +47,7 @@
     #set text(
       font: ("Roboto", "Noto Sans JP"),
       lang: "ja",
+      
     )
     #set align(center)
 
@@ -59,14 +60,15 @@
       [#text(fill: white, weight: "bold", size: 14pt, spacing: 2pt)[#upper(role)]],
     )
 
-    #v(0.5fr)
+    #v(1fr)
 
     // 氏名とSNSのハンドルネーム
     #block([
       #text(size: name-size, weight: "black")[#name]
+      
+      #v(0.3em)
 
-      #if sns != none and sns != "" {
-        v(0.3em)
+      #if sns != "" {
         text(
           size: 11pt,
           weight: "regular",
@@ -83,7 +85,7 @@
     // 所属
     #text(size: 11pt, fill: gray.darken(30%))[#affiliation]
 
-    #v(1.5fr)
+    #v(1fr)
 
     // 興味タグ
     #if interests != none and interests != "" {
@@ -102,7 +104,7 @@
       ]
     }
 
-    #v(1fr)
+    #v(2fr)
 
     // ロゴとイベント名
     #align(bottom)[
