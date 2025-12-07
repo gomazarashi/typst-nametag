@@ -1,8 +1,8 @@
-// badge_template.typ
+// nametag_template.typ
 
 // カラー定義
 #let role-colors = (
-  "Staff": rgb("#E60012"),
+  "Staff": rgb("#e74754"),
   "Speaker": rgb("#1D2088"),
   "Attendee": rgb("#444444"),
 )
@@ -18,7 +18,7 @@
   text(size: 9pt, fill: rgb("#333333"))[#content],
 )
 
-#let create-badge(name: "", affiliation: "", role: "Attendee", sns: none, interests: none) = {
+#let create-nametag(name: "", affiliation: "", role: "Attendee", sns: none, interests: none) = {
   let role-color = role-colors.at(role, default: black)
   let name-size = 24pt
 
@@ -117,7 +117,7 @@
 }
 
 // プレビュー用
-#create-badge(
+#create-nametag(
   name: "山田 太郎",
   affiliation: "株式会社Typst",
   role: "Speaker",

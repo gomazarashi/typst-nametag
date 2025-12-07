@@ -1,7 +1,7 @@
-// all_badges.typ
+// all_nametags.typ
 
 // テンプレートの読み込み
-#import "badge_template.typ": create-badge
+#import "nametag_template.typ": create-nametag
 
 // CSVファイルのパス
 #let csv-path = "participants.csv"
@@ -23,7 +23,7 @@
   let interests = row.at(4, default: none)
 
   // テンプレート関数を呼び出し
-  create-badge(
+  create-nametag(
     name: name,
     affiliation: affiliation,
     role: role,
