@@ -1,4 +1,1001 @@
 Name,Affiliation,Role,SNS,Interests
-山田 太郎,株式会社Typst,Speaker,@taroyamada,"Rust, WebAssembly, Coffee"
-佐藤 花子,Design Inc.,Staff,@hanako_des,"UI/UX, Typography, Cat"
-鈴木 一郎,Freelance,Attendee,,"Go, Cloud"
+渡辺 健太,Freelance,Speaker,user_8461,Cloud
+田中 花子,Open Source Org,Attendee,user_7430,"Typst,Rust,AI"
+鈴木 美咲,Open Source Org,Attendee,user_9216,UI/UX
+佐藤 陽菜,Design Inc.,Speaker,user_6229,"WebAssembly,Blockchain"
+田中 健太,University of Tech,Attendee,user_8760,"Cloud,WebAssembly,Security"
+加藤 美咲,株式会社Typst,Attendee,user_2582,"AI,Cloud"
+伊藤 次郎,University of Tech,Attendee,user_7063,"Blockchain,UI/UX,Rust,Security"
+伊藤 結衣,Rust Corp.,Attendee,user_2069,"UI/UX,Blockchain,Security,AI"
+鈴木 花子,株式会社Typst,Staff,user_2354,Python
+山本 一郎,Open Source Org,Attendee,user_3511,"Python,Rust"
+田中 大輔,Open Source Org,Attendee,user_8986,"Rust,Python,WebAssembly,Typst"
+渡辺 次郎,University of Tech,Attendee,user_1355,"Cloud,UI/UX"
+田中 美咲,Design Inc.,Attendee,user_4570,"Python,Blockchain,WebAssembly,Typst"
+鈴木 さくら,Open Source Org,Staff,user_1746,Blockchain
+渡辺 大輔,Design Inc.,Staff,user_4740,"UI/UX,WebAssembly"
+小林 太郎,Freelance,Attendee,user_8296,"Rust,Typst,Security,AI"
+山本 大輔,株式会社Typst,Speaker,user_1638,"Security,Cloud,Rust"
+中村 一郎,University of Tech,Attendee,user_8850,"Blockchain,UI/UX,Security"
+鈴木 花子,Open Source Org,Speaker,user_3710,"Cloud,WebAssembly"
+加藤 美咲,University of Tech,Attendee,user_1006,"Typst,Blockchain"
+中村 陽菜,Open Source Org,Attendee,user_5191,Python
+伊藤 大輔,University of Tech,Staff,user_8126,"UI/UX,WebAssembly,Typst"
+山本 健太,Freelance,Attendee,user_7611,Typst
+高橋 次郎,Rust Corp.,Attendee,user_6007,"UI/UX,Security"
+加藤 一郎,Freelance,Attendee,user_9073,"Python,WebAssembly,Blockchain,Typst"
+加藤 さくら,Design Inc.,Attendee,user_7346,Cloud
+中村 花子,Rust Corp.,Attendee,user_4196,"Python,WebAssembly"
+伊藤 健太,Design Inc.,Attendee,user_4631,"Cloud,UI/UX,Typst"
+高橋 花子,Freelance,Attendee,user_9119,"AI,Typst,Cloud"
+加藤 さくら,Rust Corp.,Attendee,user_3323,"Cloud,AI"
+加藤 美咲,University of Tech,Attendee,user_4210,"Rust,WebAssembly"
+中村 花子,Design Inc.,Staff,user_8639,"Typst,Rust,Security"
+鈴木 さくら,Freelance,Attendee,user_5655,"Rust,UI/UX,Typst,Python"
+鈴木 さくら,University of Tech,Attendee,user_6141,"Python,WebAssembly,Cloud"
+加藤 花子,University of Tech,Attendee,user_3461,Cloud
+加藤 大輔,Open Source Org,Staff,user_3145,"Blockchain,UI/UX,AI"
+鈴木 結衣,Freelance,Staff,user_6961,Blockchain
+伊藤 陽菜,Rust Corp.,Speaker,user_6632,"AI,Blockchain,WebAssembly"
+伊藤 健太,Open Source Org,Attendee,user_8437,"Cloud,WebAssembly,Rust,UI/UX"
+伊藤 太郎,Freelance,Staff,user_3697,"AI,Security,Blockchain,Cloud"
+伊藤 大輔,Design Inc.,Attendee,user_1026,"AI,Python"
+中村 さくら,University of Tech,Attendee,user_3156,"Blockchain,WebAssembly,AI,Rust"
+鈴木 大輔,株式会社Typst,Speaker,user_3293,"Cloud,WebAssembly"
+鈴木 花子,University of Tech,Attendee,user_5620,"Security,Typst"
+中村 美咲,Rust Corp.,Speaker,user_7095,"Blockchain,Security,Typst"
+加藤 結衣,Freelance,Attendee,user_5728,"AI,Cloud"
+田中 結衣,株式会社Typst,Attendee,user_4362,"UI/UX,Cloud,WebAssembly"
+加藤 一郎,University of Tech,Staff,user_1531,"Rust,Cloud,Security"
+高橋 太郎,University of Tech,Attendee,user_8091,"Python,Security,AI"
+佐藤 美咲,Rust Corp.,Attendee,user_9497,"UI/UX,Rust,Security,Blockchain"
+中村 陽菜,Rust Corp.,Attendee,user_1919,Blockchain
+田中 花子,Freelance,Staff,user_7139,"Rust,AI,WebAssembly"
+小林 結衣,Design Inc.,Attendee,user_3273,WebAssembly
+田中 健太,株式会社Typst,Speaker,user_8499,"Rust,WebAssembly,Security"
+加藤 次郎,Freelance,Attendee,user_6636,"Rust,Typst,AI,Cloud"
+高橋 次郎,株式会社Typst,Staff,user_4695,"AI,Rust,Cloud,WebAssembly"
+小林 陽菜,Design Inc.,Attendee,user_6833,"AI,Security"
+佐藤 結衣,University of Tech,Attendee,user_4126,"Typst,Rust,Python"
+中村 健太,Rust Corp.,Attendee,user_7090,Rust
+田中 さくら,Design Inc.,Attendee,user_8762,"WebAssembly,Security,UI/UX,Cloud"
+伊藤 健太,Design Inc.,Speaker,user_7612,"Rust,Blockchain,AI,UI/UX"
+佐藤 次郎,Freelance,Attendee,user_1318,"Blockchain,UI/UX,AI,Security"
+加藤 花子,Rust Corp.,Attendee,user_1278,"Rust,UI/UX"
+加藤 次郎,Freelance,Speaker,user_9292,"Blockchain,AI,Typst,WebAssembly"
+伊藤 一郎,Open Source Org,Attendee,user_1581,"Cloud,Typst"
+高橋 結衣,Freelance,Attendee,user_9692,"AI,Rust,Security,WebAssembly"
+伊藤 結衣,Design Inc.,Staff,user_1275,"Rust,WebAssembly,UI/UX"
+中村 美咲,Rust Corp.,Attendee,user_4789,"Python,Typst,AI,WebAssembly"
+鈴木 結衣,Open Source Org,Speaker,user_6730,"Blockchain,Rust,Security,AI"
+中村 美咲,Freelance,Staff,user_6155,Blockchain
+鈴木 結衣,Freelance,Attendee,user_2353,Cloud
+鈴木 次郎,Design Inc.,Staff,user_5106,WebAssembly
+伊藤 大輔,Rust Corp.,Attendee,user_4024,"WebAssembly,Blockchain,Security,Cloud"
+鈴木 陽菜,Freelance,Attendee,user_7313,Python
+中村 花子,Freelance,Staff,user_5649,Rust
+中村 太郎,Open Source Org,Attendee,user_4429,"Security,Blockchain,Python,AI"
+山本 結衣,Open Source Org,Speaker,user_2478,"Security,WebAssembly,Blockchain"
+渡辺 次郎,Design Inc.,Attendee,user_1699,"Security,Cloud,Blockchain"
+伊藤 一郎,Open Source Org,Attendee,user_4922,Typst
+田中 陽菜,Rust Corp.,Attendee,user_7408,"Python,UI/UX,WebAssembly,Blockchain"
+鈴木 美咲,Rust Corp.,Attendee,user_6633,"Cloud,AI,Typst,Python"
+渡辺 大輔,University of Tech,Attendee,user_2511,"Security,AI,Python,UI/UX"
+山本 次郎,Rust Corp.,Attendee,user_6369,"Rust,UI/UX"
+中村 結衣,Rust Corp.,Staff,user_5878,"Cloud,Security"
+伊藤 大輔,Rust Corp.,Attendee,user_3751,"Typst,Security,Blockchain"
+山本 結衣,Design Inc.,Speaker,user_6467,"Rust,Security,Cloud,WebAssembly"
+中村 大輔,Design Inc.,Attendee,user_6284,"Cloud,Python"
+小林 大輔,University of Tech,Speaker,user_9488,"Rust,Cloud,Security,Blockchain"
+加藤 花子,University of Tech,Staff,user_3271,"Typst,Security"
+加藤 次郎,Rust Corp.,Staff,user_6800,UI/UX
+山本 陽菜,Open Source Org,Attendee,user_1062,"AI,Cloud,Security"
+伊藤 美咲,University of Tech,Attendee,user_8457,AI
+鈴木 次郎,Rust Corp.,Speaker,user_5305,"Cloud,Security"
+加藤 陽菜,Open Source Org,Staff,user_8254,"Typst,Rust,UI/UX"
+高橋 太郎,Rust Corp.,Attendee,user_4699,"WebAssembly,Cloud,Typst,Security"
+加藤 美咲,Rust Corp.,Attendee,user_8974,"UI/UX,Rust,AI,WebAssembly"
+渡辺 一郎,University of Tech,Attendee,user_3314,"Blockchain,Rust,Typst,AI"
+渡辺 太郎,Freelance,Speaker,user_2358,"Blockchain,WebAssembly"
+中村 太郎,Rust Corp.,Attendee,user_7760,Security
+鈴木 大輔,Freelance,Speaker,user_4399,"Security,Blockchain"
+佐藤 太郎,Open Source Org,Speaker,user_2878,"Python,Security"
+佐藤 太郎,Rust Corp.,Speaker,user_1596,Blockchain
+渡辺 花子,University of Tech,Attendee,user_1153,AI
+鈴木 さくら,Rust Corp.,Speaker,user_8921,Cloud
+鈴木 さくら,Freelance,Attendee,user_7308,"Rust,Typst"
+鈴木 美咲,University of Tech,Attendee,user_4521,"Typst,Rust,Blockchain"
+佐藤 健太,University of Tech,Staff,user_7830,AI
+中村 太郎,Rust Corp.,Speaker,user_4101,"Rust,UI/UX"
+高橋 一郎,株式会社Typst,Attendee,user_1957,"Typst,Security,Rust"
+加藤 健太,Freelance,Attendee,user_6094,"Security,Blockchain,Rust,WebAssembly"
+渡辺 太郎,株式会社Typst,Attendee,user_3878,"UI/UX,WebAssembly"
+鈴木 健太,Open Source Org,Attendee,user_8010,"Security,Blockchain,UI/UX"
+鈴木 健太,株式会社Typst,Attendee,user_5097,"Security,Blockchain"
+伊藤 結衣,Rust Corp.,Speaker,user_5892,"Cloud,UI/UX,Security"
+山本 結衣,Design Inc.,Attendee,user_5463,"AI,Typst,Blockchain"
+田中 一郎,Open Source Org,Attendee,user_7942,"Blockchain,Typst,Cloud"
+加藤 さくら,University of Tech,Attendee,user_1243,"Cloud,Rust,AI,Security"
+小林 健太,Open Source Org,Staff,user_5254,"Rust,AI,UI/UX,Blockchain"
+小林 次郎,株式会社Typst,Attendee,user_5832,"AI,WebAssembly,Rust,Blockchain"
+渡辺 結衣,University of Tech,Attendee,user_5743,Rust
+山本 健太,Freelance,Attendee,user_7908,"Rust,Python"
+加藤 花子,株式会社Typst,Attendee,user_8191,Security
+田中 結衣,株式会社Typst,Attendee,user_8786,"Security,Rust,Typst,WebAssembly"
+小林 健太,株式会社Typst,Attendee,user_4307,"Typst,Cloud,Blockchain,Security"
+佐藤 花子,株式会社Typst,Attendee,user_3584,"WebAssembly,Cloud,Python"
+渡辺 健太,University of Tech,Staff,user_2177,"Cloud,UI/UX,Python,Rust"
+山本 大輔,University of Tech,Speaker,user_8244,"Blockchain,Cloud,UI/UX,Python"
+伊藤 一郎,University of Tech,Attendee,user_6686,"Typst,Security,WebAssembly"
+高橋 美咲,Design Inc.,Speaker,user_5992,"UI/UX,Blockchain,Cloud"
+鈴木 健太,Freelance,Staff,user_3570,"AI,WebAssembly,Blockchain,Security"
+小林 太郎,University of Tech,Speaker,user_6703,"WebAssembly,Typst"
+小林 次郎,Rust Corp.,Staff,user_4777,"Rust,Blockchain,Typst"
+中村 次郎,Rust Corp.,Attendee,user_2237,"Typst,WebAssembly"
+小林 大輔,Open Source Org,Speaker,user_9942,Typst
+伊藤 次郎,株式会社Typst,Attendee,user_9315,Security
+中村 健太,University of Tech,Attendee,user_4993,"Rust,Security"
+加藤 さくら,Open Source Org,Attendee,user_7016,WebAssembly
+山本 大輔,Design Inc.,Attendee,user_6417,"WebAssembly,Python,Typst"
+田中 陽菜,Freelance,Attendee,user_3690,"Blockchain,WebAssembly"
+高橋 花子,Rust Corp.,Attendee,user_7378,"Python,AI,UI/UX"
+山本 花子,株式会社Typst,Attendee,user_8021,"Python,Rust,WebAssembly,Typst"
+中村 美咲,株式会社Typst,Speaker,user_5826,"Typst,Security"
+渡辺 大輔,University of Tech,Staff,user_9287,"UI/UX,AI,Typst"
+鈴木 さくら,Open Source Org,Speaker,user_2093,"AI,Blockchain,Typst,Cloud"
+小林 太郎,Rust Corp.,Speaker,user_4248,"Security,WebAssembly"
+田中 陽菜,Rust Corp.,Speaker,user_9162,"UI/UX,Cloud,AI"
+高橋 さくら,株式会社Typst,Attendee,user_9915,WebAssembly
+伊藤 さくら,Design Inc.,Attendee,user_1965,"AI,WebAssembly,Typst"
+鈴木 美咲,Design Inc.,Attendee,user_8953,"WebAssembly,Python,Blockchain"
+加藤 健太,University of Tech,Attendee,user_2862,"Security,Typst,Blockchain,Rust"
+鈴木 次郎,Rust Corp.,Attendee,user_8112,"Python,Security,WebAssembly"
+伊藤 結衣,株式会社Typst,Staff,user_5129,"AI,Blockchain"
+田中 陽菜,Rust Corp.,Speaker,user_2054,Typst
+加藤 陽菜,Rust Corp.,Staff,user_7756,Python
+伊藤 結衣,University of Tech,Speaker,user_9379,"Security,Rust,AI,UI/UX"
+小林 健太,株式会社Typst,Attendee,user_6651,"UI/UX,AI"
+加藤 花子,株式会社Typst,Staff,user_6264,"Cloud,WebAssembly,Blockchain"
+小林 太郎,University of Tech,Staff,user_1391,"UI/UX,Cloud,Security,Blockchain"
+高橋 太郎,Freelance,Attendee,user_2168,"Cloud,Security,AI"
+高橋 大輔,Rust Corp.,Attendee,user_4380,"Typst,AI"
+山本 陽菜,Design Inc.,Speaker,user_4328,Rust
+佐藤 太郎,University of Tech,Attendee,user_2397,AI
+中村 美咲,Design Inc.,Attendee,user_4390,"Security,AI,Python"
+伊藤 美咲,Rust Corp.,Attendee,user_4906,"Python,WebAssembly,Rust,Security"
+鈴木 さくら,Freelance,Staff,user_5966,"Python,AI,Blockchain"
+渡辺 一郎,Rust Corp.,Attendee,user_8045,"UI/UX,AI,WebAssembly,Rust"
+伊藤 一郎,Freelance,Attendee,user_8384,"Security,Rust,UI/UX"
+高橋 さくら,Rust Corp.,Attendee,user_7085,"Cloud,AI"
+中村 健太,Freelance,Attendee,user_6213,"Blockchain,UI/UX,AI"
+加藤 さくら,Design Inc.,Attendee,user_8023,"Security,Rust"
+渡辺 健太,Design Inc.,Attendee,user_1367,Cloud
+山本 陽菜,University of Tech,Attendee,user_4701,Typst
+中村 結衣,Open Source Org,Staff,user_7002,"UI/UX,Python,AI"
+小林 健太,University of Tech,Attendee,user_5657,"Rust,Cloud,Blockchain,Python"
+鈴木 太郎,Rust Corp.,Speaker,user_1183,"Typst,AI,Cloud"
+佐藤 次郎,Open Source Org,Speaker,user_1904,"Python,Typst"
+鈴木 陽菜,University of Tech,Staff,user_5396,WebAssembly
+高橋 大輔,University of Tech,Staff,user_6719,"Python,Blockchain,Typst"
+伊藤 美咲,University of Tech,Attendee,user_6661,"Security,Rust"
+鈴木 陽菜,Design Inc.,Attendee,user_5363,"Typst,Blockchain,Cloud"
+田中 さくら,Open Source Org,Attendee,user_2874,Cloud
+山本 花子,Freelance,Attendee,user_7539,"UI/UX,Cloud,Rust"
+田中 次郎,Design Inc.,Attendee,user_7723,"AI,WebAssembly,UI/UX,Cloud"
+加藤 さくら,Rust Corp.,Speaker,user_8779,"Python,Security,Rust,Typst"
+小林 陽菜,Freelance,Attendee,user_3593,"WebAssembly,Security,Blockchain"
+中村 花子,Rust Corp.,Attendee,user_3131,"Typst,Cloud,Blockchain"
+佐藤 さくら,Rust Corp.,Speaker,user_7187,"Blockchain,AI,Typst,WebAssembly"
+加藤 美咲,Design Inc.,Attendee,user_6943,"AI,Python,Security,Rust"
+伊藤 美咲,Open Source Org,Staff,user_2446,"Security,AI,Rust,Python"
+伊藤 さくら,University of Tech,Attendee,user_1275,Blockchain
+渡辺 大輔,Rust Corp.,Attendee,user_3825,"AI,Blockchain,Cloud"
+佐藤 健太,Open Source Org,Attendee,user_7589,"Rust,Cloud"
+山本 陽菜,University of Tech,Attendee,user_8200,Rust
+小林 太郎,Design Inc.,Speaker,user_9736,"Python,Typst,UI/UX"
+佐藤 さくら,Freelance,Attendee,user_3807,"Cloud,AI,WebAssembly"
+渡辺 健太,Design Inc.,Speaker,user_3735,Python
+中村 大輔,University of Tech,Staff,user_5729,WebAssembly
+佐藤 次郎,株式会社Typst,Attendee,user_9525,Python
+伊藤 太郎,Design Inc.,Attendee,user_3691,"Cloud,Typst"
+高橋 太郎,Open Source Org,Attendee,user_9844,WebAssembly
+山本 健太,Rust Corp.,Attendee,user_3542,"Cloud,Blockchain,Python"
+田中 次郎,Open Source Org,Attendee,user_7081,"UI/UX,Blockchain,AI"
+佐藤 健太,Freelance,Speaker,user_3895,Rust
+佐藤 健太,Rust Corp.,Speaker,user_9928,"Python,Blockchain,AI"
+佐藤 太郎,Freelance,Staff,user_3794,Cloud
+高橋 花子,Rust Corp.,Staff,user_4246,"Security,AI"
+加藤 一郎,Open Source Org,Speaker,user_1992,"UI/UX,Blockchain,Cloud"
+小林 健太,Open Source Org,Attendee,user_1495,"WebAssembly,Rust"
+佐藤 大輔,株式会社Typst,Attendee,user_8740,"AI,Cloud"
+高橋 次郎,株式会社Typst,Speaker,user_6402,"Cloud,UI/UX,Python,WebAssembly"
+伊藤 一郎,Open Source Org,Staff,user_4857,"AI,Cloud"
+山本 花子,Rust Corp.,Speaker,user_3420,"Python,Security,Rust,UI/UX"
+鈴木 美咲,Rust Corp.,Staff,user_8711,"WebAssembly,UI/UX,Cloud,AI"
+田中 美咲,Design Inc.,Speaker,user_8723,"AI,Typst,WebAssembly"
+渡辺 結衣,Design Inc.,Attendee,user_4112,Python
+佐藤 さくら,University of Tech,Speaker,user_4498,"Cloud,Security,Blockchain,Typst"
+中村 さくら,Design Inc.,Attendee,user_1567,"Python,Security"
+田中 健太,University of Tech,Attendee,user_7975,"Rust,AI,Cloud,UI/UX"
+田中 美咲,Rust Corp.,Staff,user_4221,Typst
+高橋 花子,Design Inc.,Attendee,user_9090,"Blockchain,WebAssembly,Typst"
+佐藤 結衣,Rust Corp.,Attendee,user_2704,WebAssembly
+山本 一郎,University of Tech,Speaker,user_5005,"Rust,AI,Security,Python"
+小林 結衣,Open Source Org,Attendee,user_2829,"AI,WebAssembly"
+加藤 一郎,Open Source Org,Attendee,user_7750,"WebAssembly,Rust,UI/UX"
+中村 次郎,Design Inc.,Attendee,user_9056,"Blockchain,Rust,Typst,AI"
+鈴木 健太,Design Inc.,Attendee,user_5028,"Typst,Python,Security,UI/UX"
+伊藤 花子,University of Tech,Staff,user_2774,"Blockchain,Python,Cloud,Typst"
+中村 結衣,株式会社Typst,Staff,user_7471,"Python,Rust"
+高橋 陽菜,University of Tech,Staff,user_2671,"Typst,Rust"
+中村 太郎,Rust Corp.,Attendee,user_1857,"UI/UX,Typst,Security,AI"
+高橋 一郎,University of Tech,Attendee,user_1711,"WebAssembly,Rust,Typst,UI/UX"
+田中 花子,Design Inc.,Attendee,user_1028,"Security,AI,Blockchain,UI/UX"
+高橋 美咲,Freelance,Attendee,user_2241,Typst
+中村 美咲,Rust Corp.,Speaker,user_5947,"UI/UX,AI,Blockchain"
+鈴木 花子,Open Source Org,Staff,user_6898,UI/UX
+渡辺 一郎,Rust Corp.,Attendee,user_4982,"Blockchain,Cloud,Security"
+伊藤 次郎,Freelance,Speaker,user_8163,"WebAssembly,Rust,Security"
+渡辺 さくら,株式会社Typst,Attendee,user_9849,"Typst,Blockchain"
+小林 一郎,Design Inc.,Attendee,user_7705,"Cloud,AI,Typst,Rust"
+加藤 一郎,Freelance,Speaker,user_2476,"AI,Typst"
+中村 大輔,Open Source Org,Staff,user_7524,"UI/UX,AI,Blockchain,Rust"
+高橋 さくら,Freelance,Staff,user_2347,"Security,Blockchain"
+中村 太郎,株式会社Typst,Speaker,user_2305,"WebAssembly,Rust,Cloud,UI/UX"
+小林 さくら,Rust Corp.,Speaker,user_6358,"Typst,Cloud,Rust"
+山本 次郎,Open Source Org,Staff,user_7670,"UI/UX,WebAssembly,Python"
+鈴木 花子,University of Tech,Attendee,user_4827,"WebAssembly,UI/UX,AI"
+渡辺 結衣,Design Inc.,Attendee,user_5170,"Cloud,Rust,Python,UI/UX"
+高橋 次郎,University of Tech,Staff,user_7554,"AI,Cloud,Python"
+高橋 太郎,Rust Corp.,Attendee,user_1097,"WebAssembly,Cloud,AI"
+高橋 美咲,University of Tech,Attendee,user_1960,"Security,AI,Blockchain"
+渡辺 健太,University of Tech,Staff,user_7674,"Python,AI,Rust"
+佐藤 太郎,Open Source Org,Speaker,user_2481,Security
+山本 大輔,University of Tech,Attendee,user_2499,"Security,Python,Rust"
+渡辺 美咲,株式会社Typst,Staff,user_1908,Python
+山本 健太,Design Inc.,Speaker,user_2242,"Cloud,Rust"
+田中 健太,Freelance,Attendee,user_8680,"Rust,AI"
+高橋 大輔,Rust Corp.,Attendee,user_2323,Typst
+田中 花子,Freelance,Attendee,user_3936,"Rust,AI"
+高橋 美咲,Design Inc.,Speaker,user_8361,"Python,Rust"
+伊藤 一郎,Rust Corp.,Attendee,user_5347,"Cloud,Typst,AI"
+加藤 一郎,Rust Corp.,Attendee,user_4993,Rust
+伊藤 一郎,株式会社Typst,Staff,user_8617,"AI,UI/UX"
+渡辺 一郎,Freelance,Attendee,user_7477,Blockchain
+中村 大輔,Design Inc.,Speaker,user_8292,Rust
+小林 次郎,Design Inc.,Attendee,user_8111,"Blockchain,UI/UX"
+加藤 健太,Rust Corp.,Staff,user_2165,Rust
+渡辺 一郎,University of Tech,Attendee,user_3531,"WebAssembly,Blockchain"
+山本 結衣,Open Source Org,Attendee,user_5481,"AI,UI/UX"
+小林 美咲,株式会社Typst,Attendee,user_1917,"Python,AI,UI/UX"
+鈴木 陽菜,Rust Corp.,Attendee,user_2715,AI
+田中 結衣,Rust Corp.,Staff,user_7564,Typst
+高橋 結衣,Rust Corp.,Speaker,user_1761,"Rust,Typst,Python,AI"
+渡辺 結衣,Freelance,Attendee,user_5087,WebAssembly
+加藤 次郎,Freelance,Attendee,user_8292,"Python,WebAssembly,Typst"
+中村 陽菜,Open Source Org,Attendee,user_4107,"AI,Typst,WebAssembly"
+中村 一郎,株式会社Typst,Speaker,user_8710,"Python,Security,AI,Typst"
+佐藤 陽菜,Rust Corp.,Attendee,user_5966,"Security,UI/UX"
+高橋 健太,株式会社Typst,Attendee,user_1711,WebAssembly
+鈴木 健太,University of Tech,Attendee,user_6589,Python
+渡辺 健太,Freelance,Staff,user_3768,"Blockchain,AI,Python,WebAssembly"
+渡辺 健太,Open Source Org,Attendee,user_7533,"Python,AI,Blockchain"
+加藤 次郎,Freelance,Attendee,user_8704,"AI,Rust,UI/UX"
+佐藤 さくら,Freelance,Staff,user_3395,"WebAssembly,Rust"
+渡辺 花子,Freelance,Attendee,user_7187,"Typst,AI"
+高橋 花子,Open Source Org,Staff,user_3710,"Security,WebAssembly"
+伊藤 一郎,Design Inc.,Attendee,user_1273,Cloud
+小林 美咲,Design Inc.,Speaker,user_7791,"Cloud,AI"
+田中 太郎,Open Source Org,Attendee,user_8610,"UI/UX,AI"
+鈴木 結衣,Rust Corp.,Attendee,user_2397,Rust
+田中 一郎,株式会社Typst,Attendee,user_7377,WebAssembly
+高橋 次郎,University of Tech,Attendee,user_1922,"Blockchain,WebAssembly,AI"
+山本 大輔,Rust Corp.,Attendee,user_2242,Cloud
+佐藤 結衣,Open Source Org,Speaker,user_7997,Cloud
+渡辺 結衣,Open Source Org,Attendee,user_8073,"Blockchain,Typst,Security"
+佐藤 健太,Rust Corp.,Staff,user_6089,Security
+小林 次郎,Open Source Org,Speaker,user_6337,"Blockchain,Security,AI"
+渡辺 美咲,University of Tech,Staff,user_1705,"Cloud,AI"
+鈴木 さくら,Rust Corp.,Attendee,user_1093,"UI/UX,Typst"
+中村 花子,Freelance,Speaker,user_4425,"AI,Python,Blockchain"
+渡辺 結衣,株式会社Typst,Attendee,user_4919,"Security,Cloud"
+小林 花子,Freelance,Attendee,user_6369,"UI/UX,AI"
+伊藤 大輔,Design Inc.,Attendee,user_5750,"Typst,Security,Blockchain,Cloud"
+中村 陽菜,Design Inc.,Attendee,user_4903,"Cloud,Rust,AI,Blockchain"
+伊藤 陽菜,Open Source Org,Attendee,user_7468,"Python,Blockchain,Typst"
+中村 美咲,株式会社Typst,Attendee,user_4183,"WebAssembly,Cloud"
+高橋 花子,Open Source Org,Staff,user_1227,"Python,AI"
+小林 美咲,Design Inc.,Attendee,user_1395,"Security,Python,Cloud"
+山本 太郎,University of Tech,Staff,user_1782,"Typst,Python"
+鈴木 一郎,Open Source Org,Staff,user_5974,Typst
+伊藤 結衣,株式会社Typst,Attendee,user_2920,"WebAssembly,AI"
+鈴木 花子,University of Tech,Attendee,user_2689,"Blockchain,Python"
+佐藤 美咲,Rust Corp.,Staff,user_4813,"Typst,Rust"
+佐藤 花子,Design Inc.,Attendee,user_9256,"Cloud,AI,Blockchain,Security"
+加藤 健太,株式会社Typst,Attendee,user_3797,"Rust,Python,WebAssembly,Blockchain"
+山本 次郎,株式会社Typst,Speaker,user_7740,"Security,Rust"
+小林 さくら,Freelance,Staff,user_4021,"Python,Blockchain,Security,Rust"
+田中 美咲,株式会社Typst,Speaker,user_4265,"Rust,AI,Cloud"
+渡辺 大輔,Design Inc.,Attendee,user_4568,"Cloud,Python,WebAssembly,Typst"
+山本 一郎,Design Inc.,Staff,user_3962,UI/UX
+加藤 一郎,Design Inc.,Attendee,user_7626,"AI,Typst,Python,WebAssembly"
+山本 一郎,Freelance,Staff,user_9045,"AI,Security,Typst,Python"
+小林 さくら,Freelance,Speaker,user_4735,AI
+山本 大輔,Freelance,Attendee,user_7703,"Python,Security,AI,Typst"
+佐藤 花子,株式会社Typst,Attendee,user_3475,"Security,Typst,Python,Blockchain"
+佐藤 美咲,Freelance,Speaker,user_2887,Typst
+田中 次郎,Design Inc.,Attendee,user_6455,"Cloud,UI/UX,WebAssembly"
+加藤 結衣,Open Source Org,Attendee,user_3139,"Blockchain,Cloud,UI/UX,Python"
+鈴木 大輔,Freelance,Attendee,user_4408,"Cloud,Rust"
+中村 太郎,株式会社Typst,Staff,user_8396,"UI/UX,Python,Rust,Cloud"
+小林 太郎,Freelance,Attendee,user_2843,"Rust,Typst,Cloud,AI"
+田中 花子,Open Source Org,Attendee,user_7497,Blockchain
+加藤 花子,Rust Corp.,Attendee,user_4934,"WebAssembly,Python,AI"
+鈴木 さくら,Open Source Org,Attendee,user_2253,"UI/UX,AI"
+小林 さくら,Open Source Org,Speaker,user_5881,Blockchain
+高橋 陽菜,Freelance,Staff,user_5848,Rust
+高橋 さくら,University of Tech,Speaker,user_9534,"WebAssembly,Security,AI"
+中村 結衣,株式会社Typst,Speaker,user_1969,"Blockchain,AI"
+佐藤 太郎,Rust Corp.,Staff,user_5146,"Blockchain,Python"
+小林 結衣,Rust Corp.,Speaker,user_4418,"AI,Cloud,Typst"
+伊藤 大輔,Design Inc.,Attendee,user_7570,"Typst,UI/UX,Blockchain"
+田中 健太,Open Source Org,Speaker,user_5112,"Rust,WebAssembly,UI/UX"
+山本 美咲,University of Tech,Speaker,user_8444,"Cloud,WebAssembly"
+山本 太郎,Freelance,Speaker,user_6204,AI
+小林 大輔,Design Inc.,Attendee,user_5418,Typst
+田中 結衣,Rust Corp.,Attendee,user_2145,"AI,Python"
+鈴木 結衣,Open Source Org,Attendee,user_8893,"Security,Python,Rust"
+中村 次郎,Open Source Org,Attendee,user_7945,Python
+田中 一郎,株式会社Typst,Speaker,user_8231,AI
+中村 結衣,University of Tech,Staff,user_4479,"Rust,UI/UX,AI"
+山本 花子,Freelance,Attendee,user_3006,"UI/UX,AI,Cloud,Python"
+加藤 美咲,Design Inc.,Attendee,user_6433,"Rust,Blockchain"
+小林 健太,University of Tech,Attendee,user_7903,Rust
+伊藤 次郎,Design Inc.,Speaker,user_7077,"Blockchain,Typst"
+田中 大輔,Freelance,Staff,user_1356,Blockchain
+小林 花子,Freelance,Staff,user_6536,"Blockchain,Rust"
+高橋 大輔,Open Source Org,Attendee,user_5873,"Cloud,Rust,UI/UX"
+高橋 大輔,株式会社Typst,Speaker,user_7317,"Security,Blockchain"
+小林 美咲,Open Source Org,Attendee,user_9366,"WebAssembly,Cloud,AI,Python"
+加藤 太郎,Design Inc.,Attendee,user_8658,Rust
+渡辺 花子,Freelance,Attendee,user_9214,"Cloud,AI,WebAssembly,Rust"
+田中 大輔,株式会社Typst,Attendee,user_8955,"AI,Cloud,Rust,WebAssembly"
+高橋 陽菜,Design Inc.,Staff,user_6209,"Typst,Cloud"
+山本 結衣,University of Tech,Attendee,user_9038,"WebAssembly,Python,Blockchain,Security"
+加藤 結衣,Open Source Org,Speaker,user_8395,"AI,Cloud,Typst,Blockchain"
+鈴木 結衣,University of Tech,Attendee,user_8463,Rust
+加藤 太郎,Freelance,Attendee,user_4210,"UI/UX,Security"
+鈴木 健太,Open Source Org,Attendee,user_2272,"Cloud,Python,Security"
+田中 健太,University of Tech,Attendee,user_3588,"UI/UX,Rust,Python,WebAssembly"
+鈴木 大輔,Rust Corp.,Attendee,user_5113,"Typst,Security,WebAssembly"
+鈴木 さくら,株式会社Typst,Speaker,user_4446,"Blockchain,Typst,Rust"
+高橋 陽菜,Open Source Org,Attendee,user_4948,"AI,Rust,Python,Security"
+鈴木 次郎,株式会社Typst,Attendee,user_1752,"Cloud,Blockchain,UI/UX,AI"
+伊藤 太郎,University of Tech,Attendee,user_6871,"UI/UX,Security,Blockchain,AI"
+中村 陽菜,Freelance,Attendee,user_7994,"Typst,Security,Blockchain,AI"
+高橋 健太,株式会社Typst,Attendee,user_3046,Typst
+伊藤 大輔,株式会社Typst,Speaker,user_7378,"WebAssembly,UI/UX,Cloud,Python"
+高橋 次郎,Open Source Org,Staff,user_2930,"Cloud,WebAssembly,Blockchain,AI"
+中村 さくら,Open Source Org,Speaker,user_9620,Blockchain
+伊藤 大輔,Open Source Org,Speaker,user_2260,Python
+中村 さくら,株式会社Typst,Staff,user_9394,"WebAssembly,Python,Rust,Cloud"
+小林 花子,Open Source Org,Speaker,user_4254,"AI,Blockchain,WebAssembly"
+山本 健太,Design Inc.,Attendee,user_5767,"Security,AI,Rust"
+高橋 美咲,University of Tech,Attendee,user_7781,"Security,WebAssembly,UI/UX"
+鈴木 大輔,Rust Corp.,Attendee,user_2116,"UI/UX,Blockchain,Python,WebAssembly"
+高橋 太郎,Design Inc.,Attendee,user_5137,"Cloud,WebAssembly"
+渡辺 一郎,University of Tech,Attendee,user_7409,"Cloud,Rust,Python"
+加藤 大輔,Freelance,Attendee,user_7233,Cloud
+山本 結衣,Rust Corp.,Attendee,user_4597,"Blockchain,Python"
+鈴木 次郎,Rust Corp.,Staff,user_1687,Security
+山本 さくら,Design Inc.,Attendee,user_7683,"Python,Cloud,Blockchain"
+鈴木 次郎,株式会社Typst,Attendee,user_1328,"Typst,Cloud"
+佐藤 太郎,Rust Corp.,Attendee,user_8032,"Security,Cloud"
+山本 結衣,Freelance,Attendee,user_2345,Rust
+鈴木 大輔,株式会社Typst,Speaker,user_5883,Rust
+山本 一郎,University of Tech,Staff,user_6849,"Python,UI/UX,Typst"
+小林 花子,Design Inc.,Attendee,user_9447,"UI/UX,WebAssembly,Rust"
+小林 太郎,株式会社Typst,Attendee,user_6930,"Typst,Security"
+佐藤 一郎,株式会社Typst,Speaker,user_4536,"Python,Typst"
+伊藤 次郎,University of Tech,Speaker,user_5943,"Blockchain,Typst,UI/UX"
+渡辺 花子,Freelance,Attendee,user_1733,"Rust,Cloud"
+山本 結衣,University of Tech,Speaker,user_9434,Python
+田中 美咲,Design Inc.,Staff,user_2690,"Blockchain,UI/UX,Rust"
+中村 次郎,Rust Corp.,Attendee,user_4617,Security
+渡辺 太郎,Design Inc.,Speaker,user_4205,AI
+高橋 健太,Rust Corp.,Attendee,user_6699,"Cloud,Typst,Blockchain"
+中村 花子,Rust Corp.,Staff,user_7757,AI
+小林 花子,株式会社Typst,Attendee,user_9013,Typst
+加藤 一郎,Design Inc.,Attendee,user_4499,Python
+高橋 花子,Design Inc.,Attendee,user_1072,"AI,Cloud"
+山本 美咲,株式会社Typst,Attendee,user_5626,"WebAssembly,Security,Rust,Python"
+加藤 太郎,Open Source Org,Staff,user_8550,"Rust,Cloud,Typst,WebAssembly"
+伊藤 結衣,University of Tech,Staff,user_1924,"WebAssembly,Typst,Python"
+鈴木 結衣,Open Source Org,Attendee,user_6090,Typst
+佐藤 健太,Open Source Org,Attendee,user_3943,"Security,WebAssembly"
+中村 結衣,University of Tech,Attendee,user_2930,"Rust,UI/UX,WebAssembly,Blockchain"
+中村 さくら,株式会社Typst,Attendee,user_2487,"Security,Blockchain"
+高橋 大輔,University of Tech,Staff,user_4106,Security
+渡辺 さくら,University of Tech,Speaker,user_2845,"UI/UX,Security,AI,Cloud"
+高橋 次郎,Open Source Org,Speaker,user_9735,"Python,Cloud"
+加藤 健太,University of Tech,Speaker,user_3557,WebAssembly
+中村 一郎,Design Inc.,Attendee,user_1700,"Python,Typst,AI,UI/UX"
+中村 花子,Open Source Org,Attendee,user_3475,"UI/UX,Rust,Cloud"
+中村 結衣,株式会社Typst,Attendee,user_6630,"Blockchain,AI"
+渡辺 一郎,Open Source Org,Attendee,user_1920,"Blockchain,Typst"
+鈴木 健太,University of Tech,Staff,user_9992,Rust
+山本 一郎,Freelance,Attendee,user_5688,"Rust,Blockchain,Security"
+小林 一郎,Open Source Org,Attendee,user_8160,"Rust,UI/UX"
+加藤 大輔,Open Source Org,Attendee,user_1863,AI
+加藤 花子,Rust Corp.,Attendee,user_6755,"WebAssembly,Python,UI/UX,Blockchain"
+高橋 大輔,Design Inc.,Attendee,user_8607,"UI/UX,Python,Rust"
+佐藤 太郎,Rust Corp.,Attendee,user_4978,Security
+加藤 さくら,University of Tech,Attendee,user_8428,"WebAssembly,Security"
+中村 花子,Design Inc.,Speaker,user_7580,Blockchain
+高橋 結衣,University of Tech,Staff,user_7991,"Blockchain,Typst,Rust,Security"
+小林 大輔,Open Source Org,Attendee,user_8360,"Python,WebAssembly,Typst,Security"
+山本 美咲,Open Source Org,Attendee,user_4079,"Security,UI/UX"
+佐藤 次郎,株式会社Typst,Attendee,user_9221,WebAssembly
+田中 太郎,Design Inc.,Attendee,user_8609,Security
+田中 一郎,Rust Corp.,Attendee,user_4267,"Rust,UI/UX,Python"
+山本 健太,University of Tech,Attendee,user_7631,"Rust,Typst"
+鈴木 一郎,株式会社Typst,Attendee,user_2723,AI
+田中 さくら,Rust Corp.,Attendee,user_3686,"Security,WebAssembly"
+小林 太郎,株式会社Typst,Staff,user_9666,"Security,UI/UX,Blockchain"
+小林 結衣,Design Inc.,Speaker,user_4116,"Typst,AI,Blockchain,WebAssembly"
+中村 次郎,Open Source Org,Staff,user_5610,"WebAssembly,Typst"
+山本 さくら,Design Inc.,Staff,user_1063,"WebAssembly,Security,Cloud"
+渡辺 花子,Open Source Org,Staff,user_7492,"Blockchain,UI/UX,Cloud"
+山本 陽菜,Freelance,Staff,user_4512,"WebAssembly,Python,Typst"
+田中 健太,Rust Corp.,Attendee,user_3447,"Python,Cloud"
+鈴木 大輔,株式会社Typst,Attendee,user_1534,"Security,AI,Rust,Cloud"
+高橋 一郎,Rust Corp.,Attendee,user_4726,WebAssembly
+田中 結衣,Design Inc.,Speaker,user_8890,UI/UX
+中村 花子,Rust Corp.,Speaker,user_8766,"Typst,Python,Cloud,WebAssembly"
+小林 一郎,Open Source Org,Attendee,user_1910,"UI/UX,WebAssembly,Security"
+山本 太郎,University of Tech,Speaker,user_6442,"UI/UX,Typst,AI"
+佐藤 健太,University of Tech,Speaker,user_8562,"Security,Typst"
+加藤 結衣,Freelance,Speaker,user_5111,UI/UX
+山本 一郎,Open Source Org,Staff,user_8866,"UI/UX,Blockchain"
+小林 美咲,Rust Corp.,Attendee,user_1667,"Typst,Cloud,WebAssembly,UI/UX"
+小林 健太,Freelance,Staff,user_3426,"Typst,Security"
+佐藤 美咲,University of Tech,Attendee,user_4421,"Rust,UI/UX,AI,Typst"
+小林 結衣,Rust Corp.,Attendee,user_1418,"Blockchain,Security"
+渡辺 太郎,Open Source Org,Attendee,user_2334,"AI,WebAssembly,Python,UI/UX"
+小林 太郎,株式会社Typst,Attendee,user_3192,"UI/UX,Blockchain,WebAssembly"
+田中 さくら,Design Inc.,Attendee,user_7850,Python
+伊藤 花子,University of Tech,Speaker,user_9319,"Blockchain,WebAssembly"
+伊藤 一郎,株式会社Typst,Speaker,user_4032,"Blockchain,Python"
+伊藤 陽菜,株式会社Typst,Attendee,user_7118,"Blockchain,Typst"
+山本 さくら,Open Source Org,Attendee,user_8898,"Cloud,UI/UX,AI"
+加藤 陽菜,University of Tech,Speaker,user_5686,"Rust,Python"
+中村 次郎,Freelance,Attendee,user_1150,Blockchain
+中村 健太,株式会社Typst,Attendee,user_2638,"WebAssembly,AI"
+中村 さくら,Freelance,Attendee,user_3011,"Cloud,UI/UX"
+中村 次郎,Rust Corp.,Staff,user_8032,"Cloud,Typst"
+加藤 次郎,Freelance,Attendee,user_7439,"Blockchain,Typst,Security,UI/UX"
+高橋 健太,Rust Corp.,Attendee,user_2060,Blockchain
+小林 さくら,University of Tech,Speaker,user_2235,"Blockchain,Cloud,WebAssembly,UI/UX"
+佐藤 太郎,Open Source Org,Staff,user_2685,UI/UX
+渡辺 陽菜,Design Inc.,Staff,user_8812,AI
+中村 次郎,University of Tech,Attendee,user_2723,"WebAssembly,Blockchain,Cloud,Typst"
+加藤 美咲,University of Tech,Attendee,user_9533,WebAssembly
+佐藤 大輔,Freelance,Staff,user_2912,"Cloud,Blockchain,Security"
+加藤 陽菜,University of Tech,Speaker,user_4255,Rust
+高橋 次郎,University of Tech,Attendee,user_7278,"UI/UX,WebAssembly"
+加藤 花子,Rust Corp.,Staff,user_1595,"UI/UX,Security,Blockchain,Rust"
+山本 一郎,Freelance,Speaker,user_3353,"Blockchain,UI/UX,Python,Rust"
+山本 さくら,Rust Corp.,Attendee,user_9819,"UI/UX,Security,Blockchain,Typst"
+小林 結衣,株式会社Typst,Attendee,user_1140,"WebAssembly,Python,AI,UI/UX"
+小林 花子,株式会社Typst,Staff,user_2741,"AI,UI/UX"
+渡辺 さくら,University of Tech,Attendee,user_1874,"Typst,Python,AI,UI/UX"
+中村 結衣,Open Source Org,Attendee,user_9228,"Blockchain,Security"
+鈴木 陽菜,University of Tech,Attendee,user_6616,Blockchain
+渡辺 大輔,Freelance,Staff,user_4562,"Python,WebAssembly,Rust,UI/UX"
+田中 陽菜,Freelance,Attendee,user_1372,Cloud
+山本 次郎,Freelance,Attendee,user_2211,"Typst,WebAssembly"
+高橋 一郎,Rust Corp.,Speaker,user_8247,"Security,Rust,AI,Typst"
+伊藤 陽菜,Design Inc.,Attendee,user_2673,UI/UX
+小林 美咲,Design Inc.,Attendee,user_9698,"Typst,AI,Cloud"
+渡辺 結衣,Rust Corp.,Attendee,user_2646,"Rust,Blockchain"
+渡辺 太郎,Open Source Org,Attendee,user_7839,"AI,Rust,Typst"
+佐藤 花子,University of Tech,Attendee,user_7548,"Rust,Python"
+鈴木 花子,株式会社Typst,Attendee,user_7488,"UI/UX,Cloud"
+中村 さくら,University of Tech,Speaker,user_7347,Cloud
+伊藤 陽菜,株式会社Typst,Staff,user_8510,WebAssembly
+小林 陽菜,株式会社Typst,Attendee,user_8351,Python
+中村 結衣,Freelance,Attendee,user_2130,"Cloud,Blockchain,Rust"
+田中 次郎,Open Source Org,Staff,user_7225,"Security,Rust,Blockchain,AI"
+田中 花子,Open Source Org,Speaker,user_1463,"Typst,UI/UX"
+中村 大輔,Rust Corp.,Attendee,user_7005,"AI,Cloud"
+伊藤 大輔,Rust Corp.,Staff,user_6612,"Python,WebAssembly,Cloud,AI"
+高橋 美咲,Open Source Org,Attendee,user_1945,Blockchain
+田中 健太,Open Source Org,Staff,user_2367,"Python,Cloud"
+渡辺 結衣,Rust Corp.,Attendee,user_6838,"UI/UX,Rust,Typst"
+小林 健太,Design Inc.,Attendee,user_8053,"AI,UI/UX,Typst,Python"
+山本 健太,Design Inc.,Attendee,user_3415,Blockchain
+中村 大輔,Open Source Org,Attendee,user_5639,"Cloud,WebAssembly"
+佐藤 美咲,Freelance,Staff,user_5077,Blockchain
+佐藤 さくら,Design Inc.,Speaker,user_5953,"Python,AI,Blockchain,UI/UX"
+山本 結衣,University of Tech,Attendee,user_7253,"Security,Cloud,Typst,AI"
+加藤 さくら,Open Source Org,Attendee,user_5484,"WebAssembly,Cloud"
+伊藤 結衣,Open Source Org,Staff,user_1448,"Rust,UI/UX"
+田中 美咲,株式会社Typst,Staff,user_5115,"WebAssembly,Typst,Cloud"
+田中 花子,University of Tech,Attendee,user_2421,"Rust,Cloud,UI/UX,AI"
+田中 さくら,Freelance,Staff,user_6635,"Security,Rust"
+小林 さくら,株式会社Typst,Attendee,user_2359,WebAssembly
+加藤 陽菜,University of Tech,Attendee,user_4061,UI/UX
+山本 次郎,株式会社Typst,Staff,user_8303,UI/UX
+伊藤 大輔,University of Tech,Attendee,user_2954,Rust
+佐藤 美咲,Open Source Org,Speaker,user_8528,Blockchain
+小林 花子,Freelance,Attendee,user_2381,Typst
+田中 次郎,Rust Corp.,Attendee,user_2159,Rust
+加藤 健太,Open Source Org,Attendee,user_2516,Rust
+鈴木 陽菜,Freelance,Staff,user_2514,"AI,Security,WebAssembly,Rust"
+渡辺 陽菜,Open Source Org,Staff,user_9222,"Rust,Typst,Security,Blockchain"
+加藤 結衣,Open Source Org,Attendee,user_7793,Rust
+鈴木 太郎,University of Tech,Staff,user_7258,"Cloud,Rust,Security,WebAssembly"
+中村 健太,Design Inc.,Attendee,user_3023,"Security,UI/UX,Blockchain,WebAssembly"
+渡辺 大輔,Open Source Org,Speaker,user_1325,"AI,WebAssembly,UI/UX,Rust"
+高橋 結衣,Open Source Org,Staff,user_9879,"UI/UX,Rust"
+佐藤 美咲,株式会社Typst,Attendee,user_9992,"Python,Cloud"
+佐藤 さくら,Freelance,Staff,user_7195,"UI/UX,Typst"
+高橋 一郎,株式会社Typst,Staff,user_6911,"Cloud,WebAssembly,Security"
+田中 花子,Freelance,Attendee,user_2280,"Blockchain,Typst,Security,Python"
+加藤 陽菜,Open Source Org,Speaker,user_8012,"AI,WebAssembly,Typst,Cloud"
+山本 さくら,Design Inc.,Attendee,user_9997,"Typst,Cloud"
+山本 陽菜,株式会社Typst,Attendee,user_6292,"UI/UX,Rust,Blockchain"
+田中 美咲,Freelance,Speaker,user_3010,"Blockchain,Typst"
+伊藤 健太,株式会社Typst,Speaker,user_8888,"Security,WebAssembly,Python"
+高橋 大輔,Open Source Org,Attendee,user_2709,"Typst,Python,Cloud"
+伊藤 結衣,Freelance,Attendee,user_7041,"Blockchain,Typst,Rust"
+渡辺 さくら,University of Tech,Speaker,user_9571,Cloud
+中村 結衣,Freelance,Speaker,user_7209,Blockchain
+小林 さくら,Rust Corp.,Attendee,user_8378,"Security,Blockchain"
+高橋 一郎,Freelance,Speaker,user_1891,"Typst,Cloud"
+佐藤 陽菜,株式会社Typst,Attendee,user_7451,"Python,WebAssembly"
+伊藤 花子,Freelance,Attendee,user_3887,"AI,WebAssembly"
+中村 陽菜,University of Tech,Speaker,user_8451,Rust
+佐藤 健太,University of Tech,Attendee,user_9460,"Typst,Python,Cloud"
+鈴木 健太,株式会社Typst,Attendee,user_8721,"Typst,Cloud"
+小林 陽菜,University of Tech,Attendee,user_1866,Blockchain
+伊藤 花子,University of Tech,Speaker,user_3488,Typst
+鈴木 美咲,Freelance,Speaker,user_1084,"Cloud,Rust,Blockchain"
+渡辺 花子,Freelance,Attendee,user_9138,"Typst,Cloud,Security,Rust"
+加藤 次郎,Freelance,Attendee,user_8963,"Blockchain,Typst,WebAssembly"
+山本 さくら,University of Tech,Attendee,user_1861,"WebAssembly,Typst,AI,UI/UX"
+小林 健太,Freelance,Attendee,user_1630,"Cloud,Rust,Blockchain"
+小林 次郎,Open Source Org,Attendee,user_4844,"WebAssembly,Blockchain"
+鈴木 健太,Open Source Org,Staff,user_9188,"Security,Rust,Typst,Blockchain"
+小林 さくら,Design Inc.,Staff,user_3916,"Rust,UI/UX,Typst,Security"
+高橋 次郎,Freelance,Staff,user_5146,Rust
+高橋 結衣,Freelance,Speaker,user_9163,"AI,Python"
+鈴木 美咲,Open Source Org,Attendee,user_1976,"Blockchain,Rust,Cloud,UI/UX"
+佐藤 次郎,Rust Corp.,Attendee,user_1443,"Python,Cloud,Rust"
+山本 結衣,Freelance,Attendee,user_6372,"Cloud,WebAssembly,AI"
+鈴木 花子,Open Source Org,Attendee,user_2176,"UI/UX,Python,Security"
+小林 さくら,Freelance,Staff,user_2131,"AI,Typst"
+伊藤 結衣,Open Source Org,Attendee,user_3357,"UI/UX,Blockchain,Rust,AI"
+小林 結衣,Open Source Org,Speaker,user_7564,"Security,Rust"
+田中 結衣,Rust Corp.,Attendee,user_2982,"Python,WebAssembly"
+小林 次郎,株式会社Typst,Attendee,user_7686,"UI/UX,Cloud,AI"
+高橋 健太,University of Tech,Attendee,user_3391,"WebAssembly,Blockchain,Cloud,Typst"
+佐藤 大輔,Rust Corp.,Attendee,user_4315,"UI/UX,Python,Blockchain"
+佐藤 結衣,Open Source Org,Attendee,user_5640,"Python,UI/UX,AI,Cloud"
+佐藤 さくら,株式会社Typst,Attendee,user_1184,"Typst,WebAssembly,Python,Rust"
+山本 結衣,University of Tech,Attendee,user_6122,"WebAssembly,Cloud"
+山本 美咲,Rust Corp.,Staff,user_6566,"Typst,AI"
+中村 健太,Open Source Org,Speaker,user_3656,"UI/UX,Rust"
+渡辺 健太,University of Tech,Attendee,user_3700,"Python,Security,AI,Rust"
+田中 さくら,株式会社Typst,Attendee,user_1598,"Rust,Python"
+中村 結衣,Rust Corp.,Attendee,user_6465,"Rust,WebAssembly,Cloud"
+小林 花子,Freelance,Attendee,user_6841,"Rust,Python,WebAssembly,AI"
+加藤 さくら,Open Source Org,Attendee,user_7472,"Typst,UI/UX,AI"
+小林 一郎,Design Inc.,Staff,user_5868,"Security,Blockchain,UI/UX,WebAssembly"
+田中 結衣,Rust Corp.,Speaker,user_6896,Python
+中村 花子,University of Tech,Attendee,user_2533,"Rust,Python,AI"
+佐藤 美咲,University of Tech,Speaker,user_8527,"Cloud,AI,WebAssembly,Security"
+山本 美咲,Rust Corp.,Attendee,user_4056,"Python,Typst,UI/UX,AI"
+伊藤 美咲,Rust Corp.,Attendee,user_6096,"Typst,Rust,Cloud"
+中村 さくら,University of Tech,Attendee,user_7986,"Blockchain,Python,Typst"
+佐藤 さくら,株式会社Typst,Attendee,user_8637,Python
+高橋 さくら,Freelance,Attendee,user_1969,"UI/UX,Cloud,Rust,AI"
+田中 美咲,Rust Corp.,Staff,user_1896,"Cloud,Python,AI"
+渡辺 次郎,Rust Corp.,Speaker,user_6678,Blockchain
+伊藤 さくら,University of Tech,Speaker,user_9098,"Rust,Cloud,UI/UX,Blockchain"
+田中 結衣,Open Source Org,Speaker,user_1054,"Blockchain,Rust"
+伊藤 健太,株式会社Typst,Staff,user_6894,"Python,Blockchain,AI"
+中村 健太,株式会社Typst,Speaker,user_5134,"Cloud,WebAssembly,Security"
+佐藤 太郎,Open Source Org,Attendee,user_9921,"Rust,Typst,UI/UX"
+高橋 花子,Freelance,Speaker,user_1259,"Blockchain,Cloud,AI,Security"
+鈴木 大輔,Design Inc.,Staff,user_7036,"Rust,AI"
+鈴木 一郎,株式会社Typst,Speaker,user_9584,UI/UX
+伊藤 花子,Open Source Org,Speaker,user_7305,"Typst,Rust,Python,WebAssembly"
+山本 陽菜,Design Inc.,Speaker,user_8510,"Blockchain,Typst,Security,AI"
+中村 太郎,Open Source Org,Attendee,user_6505,Cloud
+小林 一郎,Freelance,Attendee,user_4045,"Security,Python,Typst"
+小林 結衣,Design Inc.,Speaker,user_6459,"Security,Cloud,Blockchain"
+田中 太郎,Open Source Org,Attendee,user_7976,"Blockchain,Rust"
+山本 一郎,Design Inc.,Attendee,user_1307,"Rust,Typst"
+田中 美咲,Rust Corp.,Speaker,user_8326,Blockchain
+伊藤 一郎,Design Inc.,Attendee,user_3234,"WebAssembly,Blockchain,Cloud,Python"
+佐藤 花子,Design Inc.,Speaker,user_1067,"Python,Rust,AI"
+鈴木 太郎,株式会社Typst,Speaker,user_3744,"Cloud,AI,Security"
+伊藤 一郎,University of Tech,Speaker,user_7265,"Blockchain,AI"
+田中 大輔,Rust Corp.,Speaker,user_5121,"WebAssembly,Blockchain,Security"
+高橋 一郎,Freelance,Speaker,user_1615,Cloud
+中村 次郎,Design Inc.,Attendee,user_7019,"Python,Blockchain"
+渡辺 美咲,Design Inc.,Speaker,user_5721,"Security,Typst"
+山本 花子,株式会社Typst,Attendee,user_7618,Python
+加藤 次郎,株式会社Typst,Attendee,user_9182,"Rust,WebAssembly,Security"
+高橋 さくら,Freelance,Attendee,user_3254,"AI,Typst,Blockchain"
+中村 一郎,University of Tech,Attendee,user_3838,Blockchain
+加藤 さくら,Freelance,Attendee,user_9694,"WebAssembly,Cloud"
+山本 花子,株式会社Typst,Staff,user_2742,"Blockchain,Python"
+渡辺 美咲,Open Source Org,Attendee,user_3253,"Typst,AI,WebAssembly"
+小林 次郎,Design Inc.,Attendee,user_3031,"Cloud,Typst,UI/UX"
+小林 次郎,Freelance,Attendee,user_5471,"Security,AI,WebAssembly"
+加藤 花子,Design Inc.,Attendee,user_5797,"Cloud,WebAssembly,Blockchain"
+小林 さくら,Design Inc.,Staff,user_7342,"Blockchain,Security"
+中村 美咲,Open Source Org,Speaker,user_4296,"WebAssembly,Cloud,AI,UI/UX"
+高橋 花子,Rust Corp.,Attendee,user_3280,Rust
+中村 美咲,University of Tech,Attendee,user_6337,"Python,Rust,UI/UX,Cloud"
+佐藤 太郎,Freelance,Staff,user_8651,"WebAssembly,UI/UX,AI,Typst"
+鈴木 大輔,Rust Corp.,Speaker,user_3920,Blockchain
+佐藤 大輔,Freelance,Attendee,user_8087,"Cloud,Security,Rust"
+中村 美咲,Rust Corp.,Speaker,user_6083,"AI,Typst,Python"
+渡辺 一郎,Open Source Org,Speaker,user_8562,"Typst,Security,UI/UX"
+佐藤 美咲,Rust Corp.,Speaker,user_4549,"UI/UX,Security,Blockchain,Typst"
+伊藤 美咲,株式会社Typst,Speaker,user_1147,"AI,Python,Blockchain"
+小林 健太,Design Inc.,Speaker,user_8407,AI
+佐藤 次郎,Rust Corp.,Staff,user_1184,"Python,Security,Rust,AI"
+加藤 健太,Open Source Org,Speaker,user_4587,AI
+高橋 結衣,Open Source Org,Attendee,user_4953,"Typst,AI"
+渡辺 太郎,Open Source Org,Attendee,user_6027,"Typst,AI,Cloud,Security"
+中村 結衣,Rust Corp.,Attendee,user_9221,"AI,WebAssembly,UI/UX"
+佐藤 さくら,University of Tech,Speaker,user_6521,"Rust,Security"
+高橋 花子,Open Source Org,Attendee,user_9733,WebAssembly
+鈴木 結衣,University of Tech,Speaker,user_1460,"WebAssembly,Typst,Python,Blockchain"
+佐藤 さくら,Open Source Org,Attendee,user_3238,Cloud
+田中 一郎,Freelance,Attendee,user_5684,"UI/UX,Blockchain,Typst,Rust"
+山本 美咲,株式会社Typst,Staff,user_8210,UI/UX
+中村 結衣,Freelance,Attendee,user_4971,"WebAssembly,Rust"
+小林 結衣,Rust Corp.,Attendee,user_5135,"Cloud,AI"
+佐藤 花子,Design Inc.,Attendee,user_7253,"AI,Rust,Python,Typst"
+高橋 花子,Design Inc.,Speaker,user_8640,Python
+伊藤 大輔,Rust Corp.,Attendee,user_2576,"Python,Blockchain,Security,WebAssembly"
+山本 一郎,株式会社Typst,Speaker,user_4640,"Security,UI/UX,AI"
+渡辺 さくら,株式会社Typst,Attendee,user_7652,"Cloud,Python,Rust,WebAssembly"
+小林 次郎,Rust Corp.,Speaker,user_8774,"Security,Python"
+中村 花子,University of Tech,Attendee,user_3133,"Rust,Security"
+渡辺 太郎,University of Tech,Speaker,user_6447,WebAssembly
+小林 美咲,Open Source Org,Speaker,user_4929,"AI,Python,Rust"
+加藤 太郎,University of Tech,Speaker,user_9664,"AI,UI/UX"
+山本 太郎,株式会社Typst,Speaker,user_7154,"UI/UX,WebAssembly,Cloud,Blockchain"
+中村 健太,University of Tech,Speaker,user_4665,"AI,Python"
+鈴木 健太,University of Tech,Attendee,user_2460,UI/UX
+山本 陽菜,Rust Corp.,Attendee,user_3189,"Typst,Rust,Python,Blockchain"
+中村 次郎,Design Inc.,Staff,user_5268,AI
+加藤 結衣,Rust Corp.,Attendee,user_7653,"Blockchain,Python"
+佐藤 美咲,Open Source Org,Speaker,user_2944,"Rust,UI/UX,Blockchain,WebAssembly"
+中村 花子,Open Source Org,Attendee,user_3274,"Python,UI/UX,Cloud,Security"
+渡辺 結衣,Open Source Org,Speaker,user_4221,"AI,Typst"
+伊藤 次郎,University of Tech,Attendee,user_7283,"AI,Rust,WebAssembly"
+高橋 さくら,University of Tech,Staff,user_1157,"WebAssembly,AI"
+伊藤 大輔,株式会社Typst,Attendee,user_5809,"Cloud,AI,WebAssembly"
+山本 健太,Open Source Org,Attendee,user_4485,"Security,Cloud,Blockchain"
+伊藤 美咲,Open Source Org,Speaker,user_6700,"UI/UX,WebAssembly"
+加藤 花子,University of Tech,Speaker,user_2110,"AI,Typst,UI/UX"
+鈴木 次郎,Rust Corp.,Attendee,user_9296,"Cloud,Blockchain,UI/UX,Typst"
+伊藤 花子,Design Inc.,Attendee,user_4742,"Typst,UI/UX"
+渡辺 一郎,Freelance,Attendee,user_6143,Security
+中村 さくら,株式会社Typst,Attendee,user_9126,Cloud
+山本 結衣,Open Source Org,Attendee,user_2750,"Security,WebAssembly"
+鈴木 花子,Freelance,Attendee,user_8305,AI
+佐藤 陽菜,株式会社Typst,Speaker,user_9848,"Cloud,AI"
+高橋 美咲,Freelance,Speaker,user_8688,"Security,Typst,Blockchain,Rust"
+伊藤 陽菜,Rust Corp.,Attendee,user_4777,Cloud
+加藤 健太,Freelance,Speaker,user_5631,"Cloud,Security,Python,AI"
+高橋 結衣,Freelance,Attendee,user_8259,"Blockchain,Security,WebAssembly"
+高橋 次郎,University of Tech,Attendee,user_6173,"Cloud,Python,Rust,UI/UX"
+山本 花子,Design Inc.,Attendee,user_6270,"WebAssembly,Rust,Typst,AI"
+山本 さくら,Open Source Org,Attendee,user_1933,Security
+高橋 太郎,Open Source Org,Staff,user_5610,"Cloud,UI/UX,Python,Rust"
+鈴木 陽菜,University of Tech,Speaker,user_7264,"AI,Security"
+田中 美咲,Design Inc.,Staff,user_7499,"AI,WebAssembly,Rust"
+小林 さくら,Freelance,Attendee,user_2419,"WebAssembly,UI/UX,AI,Blockchain"
+山本 結衣,Rust Corp.,Attendee,user_8619,Cloud
+山本 一郎,Freelance,Speaker,user_7955,"UI/UX,Rust"
+中村 健太,Design Inc.,Speaker,user_7087,"Security,Typst,AI"
+田中 太郎,Freelance,Attendee,user_4831,"Security,Rust,Blockchain,WebAssembly"
+加藤 美咲,Design Inc.,Staff,user_5293,"Rust,UI/UX,WebAssembly"
+高橋 花子,Freelance,Speaker,user_5455,"Security,UI/UX,Cloud,Blockchain"
+加藤 さくら,Design Inc.,Attendee,user_5349,"Blockchain,Cloud"
+佐藤 次郎,University of Tech,Attendee,user_8202,WebAssembly
+中村 次郎,Open Source Org,Staff,user_2661,"AI,Rust"
+佐藤 健太,University of Tech,Staff,user_4266,"Typst,AI,WebAssembly,Blockchain"
+鈴木 太郎,Design Inc.,Staff,user_9660,"Security,Rust,WebAssembly,Python"
+小林 さくら,Rust Corp.,Speaker,user_2042,Blockchain
+鈴木 一郎,Open Source Org,Attendee,user_1616,"Security,Python,Cloud"
+山本 健太,Rust Corp.,Attendee,user_1089,"Security,Typst"
+田中 結衣,University of Tech,Attendee,user_8383,"Python,WebAssembly"
+田中 一郎,Open Source Org,Attendee,user_4964,"WebAssembly,Security,AI"
+伊藤 次郎,Open Source Org,Attendee,user_7823,"Cloud,Security,Typst"
+高橋 太郎,Freelance,Attendee,user_7059,"Typst,Security,Blockchain"
+田中 大輔,Rust Corp.,Speaker,user_6486,"Python,Blockchain,Rust,Cloud"
+小林 結衣,株式会社Typst,Attendee,user_3773,"Typst,Rust"
+小林 陽菜,Design Inc.,Attendee,user_6573,"WebAssembly,Security,Rust,AI"
+鈴木 次郎,Freelance,Attendee,user_1343,"Blockchain,Typst,WebAssembly"
+渡辺 次郎,University of Tech,Speaker,user_5141,"Python,Typst,Blockchain,Cloud"
+鈴木 陽菜,Open Source Org,Attendee,user_9035,Typst
+鈴木 健太,株式会社Typst,Attendee,user_6593,"Rust,Blockchain"
+中村 花子,Rust Corp.,Attendee,user_5989,"WebAssembly,Cloud,Blockchain,Security"
+鈴木 太郎,Open Source Org,Speaker,user_2776,"UI/UX,Security,Typst,Python"
+山本 太郎,Rust Corp.,Staff,user_1956,Cloud
+高橋 さくら,Rust Corp.,Attendee,user_9883,"Security,Cloud"
+高橋 健太,University of Tech,Attendee,user_7800,"Python,WebAssembly,AI"
+山本 大輔,Open Source Org,Attendee,user_6691,"Typst,Cloud"
+加藤 陽菜,Rust Corp.,Speaker,user_6742,"Rust,Typst"
+山本 陽菜,University of Tech,Staff,user_8420,Rust
+伊藤 一郎,Design Inc.,Staff,user_2783,"Blockchain,Typst,AI"
+中村 大輔,Open Source Org,Attendee,user_8571,"AI,UI/UX,Blockchain,Python"
+山本 結衣,Open Source Org,Attendee,user_7245,"Cloud,Blockchain,Security"
+小林 さくら,Freelance,Attendee,user_5723,Blockchain
+中村 一郎,Design Inc.,Speaker,user_2634,Typst
+渡辺 一郎,Freelance,Attendee,user_3910,"Blockchain,Rust,Typst"
+山本 美咲,Freelance,Attendee,user_7634,"WebAssembly,Cloud,Blockchain,Python"
+鈴木 健太,Freelance,Attendee,user_7368,"Blockchain,UI/UX,WebAssembly,AI"
+鈴木 一郎,University of Tech,Attendee,user_6904,"Blockchain,Cloud,UI/UX,Python"
+伊藤 さくら,株式会社Typst,Staff,user_5098,"AI,Python,Cloud"
+伊藤 次郎,Design Inc.,Attendee,user_2073,WebAssembly
+伊藤 大輔,Open Source Org,Attendee,user_7745,"WebAssembly,Blockchain,Python"
+佐藤 結衣,Freelance,Staff,user_7831,"Typst,Security"
+田中 太郎,University of Tech,Attendee,user_4617,"Rust,Python,AI"
+佐藤 大輔,Design Inc.,Attendee,user_1171,Blockchain
+佐藤 美咲,Design Inc.,Speaker,user_8925,"Rust,Typst,Security"
+中村 大輔,Freelance,Attendee,user_7710,"Python,WebAssembly,Rust,UI/UX"
+鈴木 太郎,Rust Corp.,Attendee,user_5741,"Typst,Rust,Cloud"
+渡辺 美咲,Design Inc.,Speaker,user_8114,Rust
+渡辺 陽菜,University of Tech,Attendee,user_5530,"Blockchain,Cloud"
+田中 陽菜,Freelance,Attendee,user_7303,Typst
+田中 美咲,株式会社Typst,Speaker,user_3000,"UI/UX,Typst"
+鈴木 次郎,Design Inc.,Staff,user_4169,AI
+田中 大輔,University of Tech,Speaker,user_7886,"Security,Cloud,UI/UX"
+加藤 結衣,Design Inc.,Staff,user_9238,UI/UX
+鈴木 太郎,University of Tech,Speaker,user_4571,"Rust,Security,Blockchain"
+伊藤 次郎,Design Inc.,Attendee,user_3210,"Python,Typst,Cloud"
+鈴木 大輔,Rust Corp.,Attendee,user_5378,"Security,WebAssembly,Blockchain,AI"
+高橋 大輔,Rust Corp.,Attendee,user_3316,UI/UX
+鈴木 結衣,株式会社Typst,Attendee,user_6038,"Blockchain,Security,WebAssembly,UI/UX"
+田中 健太,Freelance,Staff,user_6063,"Python,UI/UX"
+山本 花子,University of Tech,Staff,user_9283,"Typst,Blockchain"
+高橋 一郎,Freelance,Speaker,user_2309,"AI,Security"
+山本 花子,株式会社Typst,Attendee,user_8967,"Rust,Blockchain,Cloud"
+高橋 結衣,University of Tech,Attendee,user_5746,"Security,Rust,Cloud,Python"
+田中 一郎,Design Inc.,Attendee,user_2742,"WebAssembly,Cloud,AI"
+加藤 大輔,Design Inc.,Attendee,user_9537,WebAssembly
+山本 健太,Open Source Org,Attendee,user_5995,"Blockchain,Typst,WebAssembly"
+伊藤 太郎,Freelance,Speaker,user_3575,"Blockchain,Security,UI/UX"
+田中 陽菜,Open Source Org,Attendee,user_2931,"Cloud,Security,Rust,AI"
+加藤 陽菜,Rust Corp.,Speaker,user_9433,"UI/UX,AI"
+伊藤 結衣,Design Inc.,Staff,user_7066,"Rust,Security,Python,WebAssembly"
+田中 次郎,Design Inc.,Attendee,user_7591,"AI,UI/UX,Blockchain,Python"
+渡辺 さくら,Rust Corp.,Attendee,user_4366,"Cloud,WebAssembly,Rust,AI"
+小林 結衣,University of Tech,Staff,user_2179,"UI/UX,Python,AI,WebAssembly"
+山本 美咲,株式会社Typst,Attendee,user_7250,"Python,Security,WebAssembly"
+加藤 大輔,Open Source Org,Attendee,user_1845,"Python,Rust,WebAssembly,UI/UX"
+鈴木 美咲,Freelance,Staff,user_1080,AI
+加藤 美咲,University of Tech,Staff,user_2926,Cloud
+中村 美咲,Freelance,Staff,user_8783,"WebAssembly,Security,Rust"
+小林 美咲,Rust Corp.,Attendee,user_7633,"Cloud,Typst"
+田中 大輔,Freelance,Attendee,user_4142,"Rust,Typst,Python"
+鈴木 さくら,Design Inc.,Attendee,user_4002,"Cloud,UI/UX,AI"
+佐藤 美咲,Freelance,Attendee,user_3642,"Python,Cloud"
+鈴木 美咲,株式会社Typst,Attendee,user_5149,UI/UX
+山本 一郎,Open Source Org,Attendee,user_8400,"Python,Security,Cloud,AI"
+田中 花子,株式会社Typst,Attendee,user_4396,Security
+鈴木 美咲,Freelance,Speaker,user_9270,"UI/UX,AI"
+伊藤 健太,株式会社Typst,Attendee,user_2474,"Python,Security,WebAssembly"
+佐藤 一郎,University of Tech,Staff,user_1818,"Typst,AI,Rust,Blockchain"
+中村 太郎,Open Source Org,Attendee,user_6212,"Security,UI/UX,AI,Typst"
+佐藤 花子,Open Source Org,Staff,user_8446,"Security,UI/UX,AI"
+中村 陽菜,University of Tech,Attendee,user_5963,"AI,WebAssembly,Blockchain"
+佐藤 美咲,Rust Corp.,Speaker,user_4874,"Cloud,Python,Typst"
+高橋 大輔,University of Tech,Speaker,user_8118,"Rust,AI,Cloud,UI/UX"
+伊藤 花子,Design Inc.,Attendee,user_8627,"UI/UX,Blockchain,WebAssembly,Cloud"
+山本 結衣,Design Inc.,Staff,user_6665,"Typst,Blockchain,Security"
+佐藤 結衣,Open Source Org,Staff,user_6203,"Blockchain,Rust,Cloud"
+鈴木 一郎,Freelance,Attendee,user_1562,"Security,Cloud,Blockchain,UI/UX"
+伊藤 大輔,Design Inc.,Attendee,user_9282,Security
+佐藤 一郎,株式会社Typst,Attendee,user_9354,"AI,Rust,Blockchain"
+田中 陽菜,Rust Corp.,Attendee,user_3983,"Blockchain,UI/UX,Cloud"
+渡辺 大輔,University of Tech,Attendee,user_9418,"Blockchain,Python,Cloud,Rust"
+田中 健太,University of Tech,Attendee,user_5203,"Cloud,Typst"
+佐藤 次郎,Freelance,Staff,user_1043,"AI,Typst,Blockchain"
+佐藤 大輔,Freelance,Attendee,user_1642,"AI,Blockchain"
+田中 次郎,University of Tech,Attendee,user_7150,Typst
+小林 陽菜,University of Tech,Attendee,user_6874,"Cloud,AI,UI/UX,Blockchain"
+小林 太郎,Open Source Org,Attendee,user_6276,Rust
+伊藤 結衣,Open Source Org,Attendee,user_7032,"Rust,Cloud,Blockchain"
+高橋 一郎,Rust Corp.,Attendee,user_3749,"UI/UX,Blockchain,Python"
+小林 一郎,株式会社Typst,Attendee,user_7140,"Security,Python,Typst"
+田中 美咲,株式会社Typst,Attendee,user_5929,"UI/UX,Cloud,Security,AI"
+山本 太郎,Rust Corp.,Speaker,user_6749,"Blockchain,Security"
+小林 花子,University of Tech,Attendee,user_9300,AI
+渡辺 美咲,University of Tech,Speaker,user_6109,"UI/UX,Typst,AI,Blockchain"
+鈴木 大輔,Open Source Org,Attendee,user_1087,"WebAssembly,Security,Cloud,Rust"
+渡辺 さくら,Open Source Org,Attendee,user_3551,"Security,AI,Blockchain"
+伊藤 花子,Design Inc.,Attendee,user_9014,"Python,Typst,Rust"
+山本 大輔,株式会社Typst,Attendee,user_6312,"AI,Rust,WebAssembly,Typst"
+田中 健太,Open Source Org,Attendee,user_9536,"Python,Security"
+渡辺 花子,Open Source Org,Staff,user_9990,"UI/UX,Rust,Typst,Security"
+山本 一郎,Open Source Org,Attendee,user_4299,"Rust,Blockchain,Cloud"
+中村 花子,Open Source Org,Staff,user_9163,"UI/UX,Typst"
+中村 結衣,Rust Corp.,Attendee,user_4318,"WebAssembly,Typst,Python,Cloud"
+山本 美咲,株式会社Typst,Attendee,user_3747,"Blockchain,Security,UI/UX"
+佐藤 花子,Freelance,Staff,user_5349,"Python,Blockchain,Cloud"
+高橋 大輔,Open Source Org,Attendee,user_4253,"AI,Cloud,WebAssembly"
+小林 花子,Design Inc.,Speaker,user_8331,"Blockchain,Rust,Python"
+小林 健太,Design Inc.,Speaker,user_9126,"WebAssembly,Cloud,AI"
+佐藤 次郎,University of Tech,Attendee,user_8343,"Security,WebAssembly,Cloud"
+佐藤 花子,株式会社Typst,Speaker,user_7940,"AI,Typst,UI/UX,Security"
+中村 健太,University of Tech,Attendee,user_1705,Security
+高橋 次郎,Open Source Org,Attendee,user_5760,"Security,Cloud"
+小林 花子,University of Tech,Attendee,user_8255,Python
+伊藤 大輔,株式会社Typst,Speaker,user_2211,"Blockchain,Typst"
+伊藤 さくら,株式会社Typst,Attendee,user_4898,"Blockchain,Cloud,WebAssembly"
+渡辺 次郎,Freelance,Speaker,user_7033,"UI/UX,Cloud,Blockchain"
+佐藤 花子,University of Tech,Attendee,user_2852,"Rust,Typst,UI/UX"
+鈴木 太郎,Open Source Org,Attendee,user_4014,"Blockchain,Security,UI/UX"
+高橋 陽菜,Design Inc.,Attendee,user_9037,Typst
+小林 さくら,Freelance,Staff,user_7255,"Security,UI/UX,AI"
+田中 美咲,株式会社Typst,Speaker,user_1991,"Typst,AI"
+渡辺 花子,University of Tech,Attendee,user_2526,"Security,Python"
+小林 美咲,University of Tech,Staff,user_8902,"UI/UX,Rust,AI,Typst"
+鈴木 一郎,株式会社Typst,Attendee,user_6474,"Security,Typst"
+伊藤 さくら,Freelance,Staff,user_2864,Blockchain
+加藤 美咲,University of Tech,Staff,user_9571,AI
+佐藤 花子,株式会社Typst,Attendee,user_5612,"Python,Blockchain"
+田中 健太,Rust Corp.,Attendee,user_7742,"WebAssembly,Cloud"
+鈴木 美咲,株式会社Typst,Staff,user_9070,"AI,Security"
+加藤 美咲,Open Source Org,Attendee,user_9961,Typst
+小林 健太,株式会社Typst,Attendee,user_3449,"Typst,AI"
+渡辺 次郎,Design Inc.,Attendee,user_4442,"WebAssembly,Security"
+佐藤 さくら,Rust Corp.,Attendee,user_3051,"Rust,AI,Blockchain,Python"
+田中 太郎,University of Tech,Attendee,user_4695,"Security,Cloud,WebAssembly,Typst"
+小林 花子,University of Tech,Speaker,user_8484,"Python,Cloud"
+高橋 次郎,Rust Corp.,Attendee,user_6559,Blockchain
+田中 花子,Design Inc.,Speaker,user_1591,"Blockchain,Cloud,WebAssembly"
+伊藤 美咲,Design Inc.,Staff,user_3270,"UI/UX,WebAssembly,Rust"
+加藤 陽菜,Open Source Org,Speaker,user_8502,Cloud
+高橋 次郎,Freelance,Attendee,user_3254,Cloud
+高橋 結衣,Open Source Org,Attendee,user_6732,"WebAssembly,Security,Typst,Blockchain"
+田中 健太,Open Source Org,Speaker,user_8619,Cloud
+佐藤 大輔,Rust Corp.,Staff,user_7432,"AI,UI/UX"
+山本 美咲,Rust Corp.,Staff,user_3817,"Python,Rust,Security"
+佐藤 大輔,Open Source Org,Attendee,user_2172,"WebAssembly,Python,Security"
+佐藤 結衣,Design Inc.,Speaker,user_1104,AI
+山本 陽菜,Design Inc.,Staff,user_5520,"Blockchain,Python,WebAssembly"
+佐藤 美咲,Design Inc.,Attendee,user_7546,"Python,Cloud"
+山本 一郎,Design Inc.,Speaker,user_9794,"Rust,AI"
+中村 太郎,University of Tech,Attendee,user_6336,Blockchain
+中村 次郎,Freelance,Attendee,user_2116,"Cloud,Python"
+加藤 花子,Open Source Org,Attendee,user_3081,Rust
+渡辺 健太,University of Tech,Attendee,user_7883,"Typst,Cloud"
+加藤 健太,株式会社Typst,Attendee,user_3892,"Python,Typst,Cloud,UI/UX"
+中村 一郎,University of Tech,Attendee,user_5800,Typst
+渡辺 大輔,Rust Corp.,Attendee,user_3990,"Cloud,WebAssembly,Security"
+加藤 陽菜,Freelance,Speaker,user_6438,"Blockchain,UI/UX,AI,Python"
+伊藤 太郎,Design Inc.,Attendee,user_6091,Typst
+高橋 太郎,株式会社Typst,Staff,user_5662,"Python,Rust,Blockchain,WebAssembly"
+加藤 健太,Freelance,Staff,user_6723,"Security,WebAssembly"
+佐藤 大輔,Rust Corp.,Attendee,user_3466,"AI,Typst"
+山本 陽菜,University of Tech,Attendee,user_6746,AI
+鈴木 結衣,Open Source Org,Attendee,user_4267,"Blockchain,WebAssembly,UI/UX,Rust"
+鈴木 太郎,Design Inc.,Attendee,user_5530,"Typst,Rust,Cloud,AI"
+渡辺 陽菜,Rust Corp.,Speaker,user_1602,Typst
+加藤 健太,Freelance,Attendee,user_8810,Typst
+中村 一郎,Rust Corp.,Staff,user_5771,"Python,Blockchain"
+田中 次郎,Rust Corp.,Staff,user_9842,"Typst,Rust,Security,UI/UX"
+山本 大輔,Design Inc.,Staff,user_4831,"Security,Cloud"
+田中 美咲,Design Inc.,Attendee,user_7440,"WebAssembly,Typst,Blockchain,UI/UX"
+渡辺 さくら,Freelance,Attendee,user_1871,"Security,Python"
+鈴木 健太,Open Source Org,Attendee,user_3630,"Security,Python"
+田中 健太,Open Source Org,Speaker,user_5322,"Rust,Cloud"
+中村 次郎,Open Source Org,Staff,user_6750,"Python,UI/UX"
+伊藤 美咲,株式会社Typst,Attendee,user_1310,UI/UX
+渡辺 一郎,株式会社Typst,Attendee,user_2133,"Python,Security"
+中村 次郎,株式会社Typst,Staff,user_1152,"Rust,Cloud,Python,Blockchain"
+山本 陽菜,Rust Corp.,Staff,user_5512,"Python,Security,UI/UX,WebAssembly"
+加藤 一郎,Rust Corp.,Staff,user_3232,Python
+鈴木 一郎,Freelance,Attendee,user_2556,"UI/UX,Python,Cloud,Security"
+田中 美咲,Open Source Org,Speaker,user_4900,"Typst,Blockchain,Cloud"
+鈴木 次郎,Design Inc.,Staff,user_5281,Security
+佐藤 健太,Design Inc.,Staff,user_2230,"Cloud,Python"
+伊藤 美咲,University of Tech,Attendee,user_6682,"Cloud,Python"
+伊藤 陽菜,Rust Corp.,Staff,user_9953,"Security,Python"
+高橋 結衣,Rust Corp.,Attendee,user_6679,AI
+田中 美咲,Open Source Org,Speaker,user_8024,"Typst,Cloud"
+佐藤 次郎,Open Source Org,Speaker,user_5696,"Cloud,Python,Rust"
+高橋 陽菜,株式会社Typst,Attendee,user_2206,"Cloud,Python"
+加藤 さくら,株式会社Typst,Speaker,user_6980,"UI/UX,Blockchain"
+中村 美咲,Design Inc.,Attendee,user_5926,"Rust,AI,Python"
+伊藤 健太,University of Tech,Speaker,user_9902,"Python,WebAssembly"
+中村 次郎,Design Inc.,Attendee,user_1284,"Security,Cloud,Python,UI/UX"
+伊藤 陽菜,Design Inc.,Attendee,user_8553,Security
+田中 一郎,Freelance,Speaker,user_5279,Blockchain
+加藤 さくら,Open Source Org,Attendee,user_6236,"WebAssembly,Typst,Security"
+小林 健太,Open Source Org,Attendee,user_8433,Rust
+加藤 さくら,Rust Corp.,Attendee,user_4371,UI/UX
+山本 健太,Rust Corp.,Speaker,user_8918,"Typst,Rust,Blockchain,WebAssembly"
+中村 さくら,Rust Corp.,Staff,user_5230,"Blockchain,Security"
+鈴木 美咲,Rust Corp.,Staff,user_9162,"AI,UI/UX,WebAssembly"
+高橋 次郎,Open Source Org,Attendee,user_4177,"UI/UX,Rust"
+伊藤 陽菜,Rust Corp.,Attendee,user_2872,"Blockchain,Rust"
+小林 結衣,University of Tech,Staff,user_7345,"Rust,WebAssembly,Blockchain,AI"
+渡辺 さくら,Rust Corp.,Staff,user_6524,"UI/UX,Blockchain,AI"
+渡辺 結衣,株式会社Typst,Attendee,user_2998,WebAssembly
+加藤 結衣,Design Inc.,Speaker,user_5499,"Security,AI"
+鈴木 健太,株式会社Typst,Staff,user_1110,"Rust,Typst,Blockchain"
+伊藤 結衣,University of Tech,Attendee,user_1740,"WebAssembly,Rust,Typst,Python"
+鈴木 陽菜,株式会社Typst,Speaker,user_5260,"WebAssembly,Security"
+佐藤 花子,株式会社Typst,Staff,user_2114,"Python,UI/UX,Blockchain"
+伊藤 美咲,Rust Corp.,Attendee,user_7916,"Cloud,Blockchain,Security"
+山本 美咲,Rust Corp.,Attendee,user_1953,"AI,Blockchain"
+渡辺 健太,Open Source Org,Attendee,user_4234,"Typst,WebAssembly"
+高橋 次郎,Rust Corp.,Attendee,user_7520,Cloud
+渡辺 陽菜,Rust Corp.,Attendee,user_9498,"UI/UX,WebAssembly,Typst,Cloud"
+加藤 一郎,Rust Corp.,Staff,user_5585,"Blockchain,Cloud"
+高橋 健太,Design Inc.,Attendee,user_6826,"AI,Python,Cloud,Rust"
+山本 大輔,株式会社Typst,Attendee,user_3695,"Cloud,Security"
+佐藤 結衣,University of Tech,Staff,user_3715,"Python,Security,Blockchain"
+山本 美咲,Open Source Org,Speaker,user_9114,"Typst,Rust,UI/UX,AI"
+加藤 結衣,Open Source Org,Attendee,user_7252,"UI/UX,Security"
+佐藤 美咲,Freelance,Attendee,user_6942,"Security,WebAssembly,UI/UX"
+高橋 陽菜,Rust Corp.,Staff,user_7692,"UI/UX,Cloud"
+山本 大輔,Open Source Org,Speaker,user_3232,"Typst,Cloud"
+渡辺 花子,株式会社Typst,Staff,user_5969,"Blockchain,UI/UX"
+渡辺 一郎,Open Source Org,Speaker,user_5958,UI/UX
+伊藤 花子,University of Tech,Attendee,user_6847,"Blockchain,UI/UX,Rust,WebAssembly"
+渡辺 大輔,University of Tech,Attendee,user_4276,Typst
+伊藤 一郎,Rust Corp.,Speaker,user_1472,Security
+加藤 次郎,Design Inc.,Attendee,user_3862,"Blockchain,AI,UI/UX,Python"
+鈴木 次郎,Open Source Org,Attendee,user_7749,Rust
+佐藤 太郎,University of Tech,Speaker,user_3753,"Rust,WebAssembly,Typst,Security"
+高橋 花子,Design Inc.,Staff,user_9817,"Blockchain,UI/UX"
+高橋 健太,University of Tech,Staff,user_3024,UI/UX
+渡辺 美咲,株式会社Typst,Attendee,user_1720,"Python,Rust"
+鈴木 結衣,Freelance,Attendee,user_7197,"Typst,WebAssembly"
+山本 美咲,Freelance,Attendee,user_3397,"Python,WebAssembly,UI/UX"
+加藤 一郎,Open Source Org,Staff,user_9821,"Security,Rust,UI/UX"
+山本 結衣,Open Source Org,Attendee,user_1778,AI
+鈴木 結衣,University of Tech,Attendee,user_1538,WebAssembly
+渡辺 花子,Open Source Org,Staff,user_2570,"Rust,Python,AI"
+高橋 陽菜,University of Tech,Speaker,user_4891,"WebAssembly,UI/UX"
+高橋 次郎,University of Tech,Attendee,user_7216,Blockchain
+鈴木 次郎,Open Source Org,Attendee,user_6250,"Cloud,Typst"
+伊藤 花子,Rust Corp.,Attendee,user_5365,"UI/UX,AI"
+高橋 次郎,University of Tech,Speaker,user_9407,"Python,AI"
+渡辺 一郎,Open Source Org,Attendee,user_2631,"Rust,UI/UX,WebAssembly,Cloud"
+小林 結衣,Freelance,Staff,user_9024,"Typst,Cloud,AI"
+佐藤 花子,Open Source Org,Attendee,user_1416,"Rust,Typst,Security,UI/UX"
+佐藤 一郎,University of Tech,Attendee,user_9247,"Typst,Blockchain"
+伊藤 陽菜,Rust Corp.,Attendee,user_5648,"Rust,Blockchain,Cloud"
+高橋 陽菜,株式会社Typst,Attendee,user_8960,"Blockchain,Cloud,UI/UX,Rust"
+加藤 さくら,株式会社Typst,Speaker,user_8400,"Typst,Cloud,UI/UX"
+佐藤 さくら,株式会社Typst,Speaker,user_4944,Python
+鈴木 美咲,Rust Corp.,Attendee,user_1647,"AI,Blockchain,Cloud,UI/UX"
+小林 花子,University of Tech,Attendee,user_7490,"Typst,AI"
+高橋 陽菜,Open Source Org,Speaker,user_7379,"Rust,Security,AI,Cloud"
+鈴木 健太,株式会社Typst,Attendee,user_2207,Security
+加藤 次郎,University of Tech,Staff,user_9930,"Typst,UI/UX,Python,Blockchain"
+佐藤 美咲,株式会社Typst,Attendee,user_2910,Security
+加藤 次郎,株式会社Typst,Staff,user_4417,"Rust,WebAssembly,UI/UX"
+小林 次郎,Rust Corp.,Attendee,user_3809,"Security,Cloud"
+佐藤 花子,University of Tech,Attendee,user_1288,"Python,Rust,WebAssembly"
+山本 次郎,University of Tech,Speaker,user_6389,"UI/UX,WebAssembly,Blockchain,Python"
+伊藤 次郎,株式会社Typst,Attendee,user_9945,"Security,AI"
+小林 結衣,University of Tech,Attendee,user_3381,"Security,Cloud,AI,Rust"
+佐藤 陽菜,University of Tech,Attendee,user_8308,"Python,Security,Cloud,UI/UX"
+小林 健太,University of Tech,Attendee,user_7078,"Python,AI"
+鈴木 健太,Open Source Org,Staff,user_4691,Cloud

@@ -43,7 +43,7 @@
     ],
   )[
     #set text(
-      font: ("Roboto", "Noto Sans JP"),
+      font: ("Roboto", "IBM Plex Sans JP"),
       lang: "ja",
     )
     #set align(center)
@@ -116,6 +116,7 @@
 }
 
 // プレビュー用
+/*
 #create-nametag(
   name: "山田 太郎",
   affiliation: "株式会社 nullpo",
@@ -123,4 +124,4 @@
   sns: "taroyamada",
   interests: "Rust, WebAssembly, Coffee, Photography, Cats",
 )
-
+*/

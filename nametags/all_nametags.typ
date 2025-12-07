@@ -19,8 +19,8 @@
   let name = row.at(0, default: "")
   let affiliation = row.at(1, default: "")
   let role = row.at(2, default: "Attendee")
-  let sns = row.at(3, default: none)
-  let interests = row.at(4, default: none)
+  let sns = row.at(3, default: "")
+  let interests = row.at(4, default: "")
 
   // テンプレート関数を呼び出し
   create-nametag(
