@@ -18,9 +18,8 @@
   text(size: 9pt, fill: rgb("#333333"))[#content],
 )
 
-#let create-nametag(name: "", affiliation: "", role: "Attendee", sns: none, interests: none) = {
+#let create-nametag(name: "", affiliation: "", role: "Attendee", sns: "", interests: "") = {
   let role-color = role-colors.at(role, default: black)
-  let name-size = 24pt
 
   page(
     paper: "a6",
@@ -39,7 +38,6 @@
           height: 100% - 1cm,
           fill: white,
           radius: 8pt,
-          stroke: none,
         )
       ]
     ],
@@ -47,7 +45,6 @@
     #set text(
       font: ("Roboto", "Noto Sans JP"),
       lang: "ja",
-      
     )
     #set align(center)
 
@@ -60,12 +57,12 @@
       [#text(fill: white, weight: "bold", size: 14pt, spacing: 2pt)[#upper(role)]],
     )
 
-    #v(1fr)
+    #v(1.5em)
 
     // 氏名とSNSのハンドルネーム
     #block([
-      #text(size: name-size, weight: "black")[#name]
-      
+      #text(size: 24pt, weight: "black")[#name]
+
       #v(0.3em)
 
       #if sns != "" {
@@ -88,7 +85,7 @@
     #v(1fr)
 
     // 興味タグ
-    #if interests != none and interests != "" {
+    #if interests != "" {
       let tags = interests.split(",").map(s => s.trim())
 
       align(center)[
@@ -111,8 +108,8 @@
       #stack(
         dir: ltr,
         spacing: 1em,
-        image("assets/logo.png", height: 1.0cm, fit: "contain"),
-        align(horizon)[#text(size: 9pt, fill: gray.darken(20%))[Tech Conference 2025]],
+        image("assets/logo.png", height: 1.5cm, fit: "contain"),
+        align(horizon)[#text(size: 13pt, fill: gray.darken(20%))[Tech Conference 2025]],
       )
     ]
   ]
@@ -121,8 +118,9 @@
 // プレビュー用
 #create-nametag(
   name: "山田 太郎",
-  affiliation: "株式会社Typst",
+  affiliation: "株式会社 nullpo",
   role: "Speaker",
   sns: "taroyamada",
   interests: "Rust, WebAssembly, Coffee, Photography, Cats",
 )
+
